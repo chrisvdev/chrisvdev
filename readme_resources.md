@@ -12,12 +12,17 @@
 - Como te ves en lo que sos?
 - Skills (resumen o tecnologías usas)
 - tus redes
+- estadísticas de perfil (si quieres ponerlas)
 
-## herramientas
+## herramientas o cosas a tener en cuenta
+
+- pensar que van a ver tu readme tanto en darkmode como no. Gris 50% (o color)
 
 Imágenes o no de tecnologías con vínculos al buscador filtrando por usuario y la tecnología -> https://github.com/search?q=user%3A**USUARIO**+**TECNOLOGIA**
 
 [MarkDown CheatSheet](https://www.markdownguide.org/cheat-sheet/)
+
+[Banner o imágenes dinámicas con Capsule Render ](https://github.com/kyechan99/capsule-render)
 
 [ReadMe con Actions from MiduDev](https://www.youtube.com/watch?v=1eEnboVooiY)
 
