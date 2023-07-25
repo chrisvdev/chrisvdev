@@ -34,7 +34,7 @@ In my future endeavors, I plan to delve into areas of interest such as Machine L
     <img src="./assets/logos/github_actions.png" style="height: 5rem;" title="GitHub Actions" alt="GitHub Actions" />
 </div>
 
-I host my own [Twitch channel as ChrisVDev](https://twitch.tv/chrisvdev) in spanish, where viewers can see me working on projects alongside the community.
+![ChrisVDev on Twitch](https://img.shields.io/twitch/status/chrisvdev?style=social&label=ChrisVDev) I host my own [Twitch channel as ChrisVDev](https://twitch.tv/chrisvdev) in spanish, where viewers can see me working on projects alongside the community.
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=chrisvill2312&show_icons=true&theme=dark)
 
